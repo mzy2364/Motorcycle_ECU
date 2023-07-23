@@ -344,11 +344,11 @@ uint32_t fuel_pulse_width_calculate(uint16_t rpm,uint16_t load)
 		}
 	}
 
-	if(crank_state != SYNCHRONIZED_4C)
-	{
-		/* 四冲程未同步 以二冲程模式运行 */
-		fuel_pulse_width >>= 1;
-	}
+	// if(crank_state != SYNCHRONIZED_4C)
+	// {
+	// 	 四冲程未同步 以二冲程模式运行 
+	// 	fuel_pulse_width >>= 1;
+	// }
 
 	return fuel_pulse_width;
 }
