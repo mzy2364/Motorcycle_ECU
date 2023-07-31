@@ -2,9 +2,9 @@
 
 单缸摩托车发送机控制单元
 
-<img src='Document\Image\ECU01.png'></img>
+<img src='Document/Image/ECU01.png'></img>
 
-<img src='Document\Image\PCBA01.png'></img>
+<img src='Document/Image/PCBA01.png'></img>
 
 
 
@@ -34,7 +34,7 @@ MIL 灯控制、继电器输出、燃油泵控制、怠速阀控制
 
 ### 硬件结构
 
-<img src='Document\Image\硬件框图01.png'> </img>
+<img src='Document/Image/硬件框图01.png'> </img>
 
 
 
