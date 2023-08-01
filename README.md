@@ -2,6 +2,8 @@
 
 单缸摩托车发送机控制单元
 
+视频地址 : <a href="https://www.bilibili.com/video/BV1r14y167MM/">https://www.bilibili.com/video/BV1r14y167MM/</a> 
+
 <img src='Document/Image/ECU01.png'></img>
 
 <img src='Document/Image/PCBA01.png'></img>
